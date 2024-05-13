@@ -3,7 +3,7 @@
 This project was built using React and Firebase. User must set up a firebase database, also user must install firebase locally onto their device.
 I used a simple username sign in process, this is obviously not secure, there are authentication servcies that you can use in firebase, I was struggling with getting them working for me, I will probably revisit to try and build a secure version.
 
-![image of fun goats](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rd.com%2Flist%2Fgoat-pictures%2F&psig=AOvVaw1_5QA62pGrUhy8Y_gcylWM&ust=1715714727209000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjq0cmti4YDFQAAAAAdAAAAABAE](https://www.rd.com/wp-content/uploads/2021/03/GettyImages-1226168571-scaled-e1615403171578.jpg))
+![image of fun goats](https://media.istockphoto.com/id/177369626/photo/funny-goat-puts-out-its-tongue.jpg?s=612x612&w=0&k=20&c=YlmA4-C8o5XFsoYMLK-VBnhQku1tmeBm7DJBkrzJuGw=)
 
 
 
