@@ -5,7 +5,7 @@ I used a simple username sign in process, this is obviously not secure, there ar
 
 ![image of fun goats](https://media.istockphoto.com/id/177369626/photo/funny-goat-puts-out-its-tongue.jpg?s=612x612&w=0&k=20&c=YlmA4-C8o5XFsoYMLK-VBnhQku1tmeBm7DJBkrzJuGw=)
 
-
+[Try the app](https://react-chat-app-username.web.app/)
 
 # Getting Started with Create React App
 
