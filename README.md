@@ -1,3 +1,9 @@
+# Instructions for use
+
+This project was built using React and Firebase. User must set up a firebase database, also user must install firebase locally onto their device.
+I used a simple username sign in process, this is obviously not secure, there are authentication servcies that you can use in firebase, I was struggling with getting them working for me, I will probably revisit to try and build a secure version.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
